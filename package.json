@@ -1,0 +1,11 @@
+{
+  "name": "crypto-polyfills",
+  "version": "1.0.0",
+  "description": "Crypto polyfills collection to fill the crypto implementation gap between nodejs versions and browsers",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
